@@ -7,30 +7,16 @@ tags:
 - pandas
 - csv
 created_at: 2018-11-15 00:00:00
-updated_at: 2019-01-08 17:24:03.289238
+updated_at: 2019-01-08 17:28:27.416830
 tldr: "We show how the `pandas` package can be used to parse a presentation log file.\
   \ \n"
 ---
 
---- 
-title: Wrangling presentation log files with `pandas`
-authors: 
-- drose 
-tags: 
-- python 
-- pandas
-- csv
-created_at: 2018-11-15 
-updated_at: 2019-01-08 
-tldr: | 
-    We show how the `pandas` package can be used to parse a presentation log file. 
---- 
 # Python Methods Club
 ## 2018-11-15
 `pandas`, `DataFrames` and wrangling presentation log files
 
 # Part 1: Pandas Introduction
----
 
 The first part of the session was based on a page from the pandas documentation: 
 [10 minutes to pandas](https://pandas.pydata.org/pandas-docs/stable/10min.html).
@@ -38,7 +24,6 @@ The first part of the session was based on a page from the pandas documentation:
 I will skip the content here, since it is a redundant and incomplete copy of the original. Instead, I strongly recommend, going through the [tutorials from the pandas documentation](http://pandas.pydata.org/pandas-docs/stable/tutorials.html).
 
 # Part2: Parsing a Presentation log file :-)
----
 
 We will parse presentation log files to `pandas.DataFrame`s and query them a little.
 
