@@ -10,4 +10,4 @@ Please post any questions you would like to be answered in a future session as a
 
 ## The next session. 
 
-[Milestones](https://github.com/cbs-methods-club/python-methods-club/milestones) are used to mark, which topics should be include in a specific future session. The due-date of the milestone marks the date of the session.
+[Milestones](https://github.com/cbs-methods-club/python-methods-club/milestones) are used to mark, which topics should be included in a specific future session. The due-date of the milestone marks the date of the session.
